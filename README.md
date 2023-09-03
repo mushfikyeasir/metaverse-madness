@@ -1,4 +1,4 @@
-# Build and Deploy a Modern Next 13 Website With Framer Motion & Tailwind CSS
+# A landing page useing Framer Motion with Tailwidn CSS in Next js
 
 ### [Live Site](https://metaverse-madness-rho.vercel.app/)
 
