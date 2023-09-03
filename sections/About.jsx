@@ -43,6 +43,15 @@ const About = () => (
         alt="arrow down"
         className="w-[18px] h-[28px] object-contain mt-[28px]"
       />
+      <motion.div
+      whileHover={{ rotate: 360 }}
+      transition={{
+          type: "spring",
+          duration: 5,
+          bounce: 0.6
+      }}>
+        <p className='text-5xl text-white'>Mission</p>
+      </motion.div>
     </motion.div>
   </section>
 );
